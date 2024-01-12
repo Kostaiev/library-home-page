@@ -7,7 +7,7 @@ export const ReturnBook = (props: any) => {
         <img src={props.path} width="151" height="223" alt="book" />
         <h6 className="mt-2">{props.name}</h6>
         <p>{props.author}</p>
-        <a className="btn main-color text-white" href="#">
+        <a className="btn main-color text-white" href="null">
           Reserve
         </a>
       </div>

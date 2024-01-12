@@ -105,14 +105,14 @@ export const Carousel = () => {
               <b>Pragmatic Programmer</b>
             </h6>
             <p>David Thomas</p>
-            <a className="btn main-color text-white" href="#">
+            <a className="btn main-color text-white" href="null">
               Reserve
             </a>
           </div>
         </div>
       </div>
       <div className="homepage-carousel-title mt-3">
-        <a className="btn btn-outline-secondary btn-lg" href="#">
+        <a className="btn btn-outline-secondary btn-lg" href="null">
           View more
         </a>
       </div>

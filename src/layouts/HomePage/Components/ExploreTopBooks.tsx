@@ -8,7 +8,7 @@ export const ExploreTopBooks = () => {
           <a
             type="button"
             className="btn main-color btn-lg text-white"
-            href="#"
+            href="null"
           >
             Explore top books
           </a>
